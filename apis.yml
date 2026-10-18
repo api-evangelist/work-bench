@@ -1,0 +1,63 @@
+aid: work-bench
+name: Work-Bench
+description: >-
+  Work-Bench is New York City's B2B software seed fund, founded in 2013, backing founders building the next
+  generation of applied AI and infrastructure software. The firm leads pre-seed and seed rounds and works with
+  founders on go-to-market from the first customers through scaling, under the thesis that "GTM is your moat".
+  It is NYC-based and NYC-biased, but backs founders anywhere who want to win enterprise customers in New York.
+  Its portfolio spans three areas, AI infrastructure and developer tools, cybersecurity, and enterprise apps and
+  vertical AI, with exits including CoreOS (Red Hat), Semmle (GitHub), Tilt (Docker), Permiso (Okta) and
+  FireHydrant (Freshworks). Headquartered at 915 Broadway, New York. It publishes the GTM Weekly newsletter.
+x-type: venture-capital
+x-category: Venture Capital
+image: https://cdn.prod.website-files.com/6a2adcd5d0d66ad5da382c2f/6a2adcd5d0d66ad5da382caf_FAV.png
+tags:
+  - Venture Capital
+  - Pre-Seed
+  - Seed
+  - Enterprise Software
+  - AI Infrastructure
+  - Developer Tools
+  - Cybersecurity
+  - New York
+created: '2026-10-18'
+modified: '2026-10-18'
+specificationVersion: '0.20'
+url: https://raw.githubusercontent.com/api-evangelist/work-bench/refs/heads/main/apis.yml
+apis: []
+common:
+  - type: Website
+    url: https://www.work-bench.com
+  - type: Portfolio
+    url: https://www.work-bench.com/portfolio
+  - type: Portfolio
+    url: portfolio/work-bench-portfolio.yml
+  - type: Team
+    url: https://www.work-bench.com/team
+  - type: Team
+    url: team/work-bench-team.yml
+  - type: Blog
+    url: https://www.work-bench.com/research
+  - type: Newsletter
+    url: https://workbench.substack.com/s/gtm-weekly
+  - type: Contact
+    url: mailto:hello@work-bench.com
+  - type: Features
+    data:
+      - "Stage: pre-seed, seed (leads rounds)"
+      - "Sectors: AI infrastructure & developer tools, cybersecurity, enterprise apps + vertical AI"
+      - "Geography: New York City focus; backs founders anywhere selling into NYC"
+      - "Founded: 2013"
+      - "HQ: 915 Broadway, Suite 1200, New York, NY 10010"
+    sources:
+      - https://www.work-bench.com/
+      - https://www.work-bench.com/portfolio
+    updated: '2026-10-18'
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+  - FN: APIs.json
+    email: info@apisjson.org
+  - FN: Work-Bench
+    email: hello@work-bench.com
+    url: https://www.work-bench.com

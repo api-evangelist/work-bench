@@ -1,0 +1,410 @@
+generated: '2026-10-18'
+method: searched
+source: https://www.work-bench.com/portfolio
+summary:
+  portfolio_total: 38
+  in_network: 19
+  api_providers: 6
+  missing: 19
+  stubs_created: 0
+companies:
+- name: AIR Platforms
+  description: AI-Powered Credit Rating Platform
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.airplatforms.com/
+  suggested_slug: air-platforms
+  in_network: false
+  is_api_provider: false
+- name: Alkymi
+  description: Data Workflow Automation
+  sector: ai-infrastructure-developer-tools
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.alkymi.io/
+  slug: alkymi
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Arthur
+  description: AI Model Monitoring and Performance Optimization
+  sector: ai-infrastructure-developer-tools
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.arthur.ai/
+  slug: arthurai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Artian
+  description: Multi-Agent System for Financial Services
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.artian.ai/
+  slug: artian
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Authzed
+  description: Managed Permissions Database
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://authzed.com/
+  slug: authzed
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Backtrace
+  description: Crash Reporting and Debugging Platform (exited to Sauce Labs)
+  sector: ai-infrastructure-developer-tools
+  stage: unknown
+  status: acquired
+  source: https://www.work-bench.com/portfolio
+  url: https://backtrace.io/
+  suggested_slug: backtrace
+  in_network: false
+  is_api_provider: false
+- name: Built AI
+  description: Automated Real Estate Investment Analysis
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.builtai.co/
+  suggested_slug: built-ai
+  in_network: false
+  is_api_provider: false
+- name: Chamelio
+  description: AI System of Record for In-House Legal Teams
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://chamelio.ai/
+  suggested_slug: chamelio
+  in_network: false
+  is_api_provider: false
+- name: Cockroach Labs
+  description: Distributed SQL Database for Mission Critical Apps
+  sector: ai-infrastructure-developer-tools
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.cockroachlabs.com/
+  slug: acid
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: CoreOS
+  description: Kubernetes and Container Infrastructure Platform (exited to Red Hat)
+  sector: ai-infrastructure-developer-tools
+  stage: unknown
+  status: acquired
+  source: https://www.work-bench.com/portfolio
+  x-note: portfolio card links to acquirer site (https://www.redhat.com/en); company homepage not recorded
+  slug: coreos
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Courier Health
+  description: Patient Engagement Platform
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.courierhealth.com/
+  slug: courierhealth
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: DevArmor
+  description: AI-Powered Threat Modeling & Security Design
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.devarmor.com/
+  suggested_slug: devarmor
+  in_network: false
+  is_api_provider: false
+- name: Dialpad
+  description: AI-Powered Business Communications and Collaboration
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.dialpad.com/
+  slug: dialpad
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: DryRun Security
+  description: AI-Powered Application Security Analysis
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.dryrun.security/
+  suggested_slug: dryrun-security
+  in_network: false
+  is_api_provider: false
+- name: Earthly
+  description: Engineering Guardrails for the AI Era
+  sector: ai-infrastructure-developer-tools
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://earthly.dev/
+  slug: earthly
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: FireHydrant
+  description: Incident Management and Reliability Automation Platform (exited to Freshworks)
+  sector: ai-infrastructure-developer-tools
+  stage: unknown
+  status: acquired
+  source: https://www.work-bench.com/portfolio
+  url: https://firehydrant.com/
+  slug: firehydrant
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Git AI
+  description: AI Software Factory Observability (exited to OpenAI)
+  sector: ai-infrastructure-developer-tools
+  stage: unknown
+  status: acquired
+  source: https://www.work-bench.com/portfolio
+  url: https://usegitai.com/
+  suggested_slug: git-ai
+  in_network: false
+  is_api_provider: false
+- name: Goodfire
+  description: AI Interpretability Research
+  sector: ai-infrastructure-developer-tools
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.goodfire.ai/
+  slug: goodfire
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: GovWell
+  description: ai operating system for local government
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.govwell.com/
+  slug: govwell
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Lumesa
+  description: AI-Native Content Infrastructure for Modern Retail
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.lumesa.ai/
+  suggested_slug: lumesa
+  in_network: false
+  is_api_provider: false
+- name: Metric Insights
+  description: Business Intelligence Portal
+  sector: ai-infrastructure-developer-tools
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.metricinsights.com/
+  suggested_slug: metric-insights
+  in_network: false
+  is_api_provider: false
+- name: Paratus
+  description: Military Readiness Platform
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.getparatus.com/
+  suggested_slug: paratus
+  in_network: false
+  is_api_provider: false
+- name: Peerbound
+  description: AI Customer Proof Platform
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.peerbound.com/
+  suggested_slug: peerbound
+  in_network: false
+  is_api_provider: false
+- name: Permiso
+  description: Unified Identity Security (exited to Okta)
+  sector: cybersecurity
+  stage: unknown
+  status: acquired
+  source: https://www.work-bench.com/portfolio
+  url: https://permiso.io/
+  suggested_slug: permiso
+  in_network: false
+  is_api_provider: false
+- name: Petra
+  description: Enterprise AEO platform
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.petralabs.com/
+  suggested_slug: petra
+  in_network: false
+  is_api_provider: false
+- name: Rediem
+  description: AI-native Loyalty Community OS
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.rediem.co/
+  suggested_slug: rediem
+  in_network: false
+  is_api_provider: false
+- name: Scytale
+  description: Workload Identity for Distributed Systems (exited to Hewlett Packard Enterprise)
+  sector: cybersecurity
+  stage: unknown
+  status: acquired
+  source: https://www.work-bench.com/portfolio
+  x-note: portfolio card links to acquirer site (https://www.hpe.com/us/en/software.html); company homepage
+    not recorded
+  slug: scytale
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Semmle
+  description: Code Analysis Platform for Security Vulnerabilities (exited to Github)
+  sector: cybersecurity
+  stage: unknown
+  status: acquired
+  source: https://www.work-bench.com/portfolio
+  url: https://semmle.com
+  slug: semmle
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: ShiftRx
+  description: Pharmacy Staffing Software (exited to TrustedHealth)
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: acquired
+  source: https://www.work-bench.com/portfolio
+  url: https://www.shiftrx.io/
+  suggested_slug: shiftrx
+  in_network: false
+  is_api_provider: false
+- name: Shipyard
+  description: Ephemeral Environment Management (exited to StackGen)
+  sector: ai-infrastructure-developer-tools
+  stage: unknown
+  status: acquired
+  source: https://www.work-bench.com/portfolio
+  url: https://shipyard.build/
+  suggested_slug: shipyard
+  in_network: false
+  is_api_provider: false
+- name: SKUSafe
+  description: AI-native Food PLM Platform
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.skusafe.com/
+  suggested_slug: skusafe
+  in_network: false
+  is_api_provider: false
+- name: Socure
+  description: Digital Identity Verification and Fraud Prevention Platform
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.socure.com/
+  slug: socure
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Spring Health
+  description: Mental Health Platform
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.springhealth.com/
+  slug: spring-health
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Tamr
+  description: Data Unification Platform
+  sector: ai-infrastructure-developer-tools
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.tamr.com/
+  slug: tamr
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Tilt
+  description: Local Development Tooling for Kubernetes Microservices (exited to Docker)
+  sector: ai-infrastructure-developer-tools
+  stage: unknown
+  status: acquired
+  source: https://www.work-bench.com/portfolio
+  url: https://tilt.dev/
+  slug: tilt
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Varick Agents
+  description: Enterprise AI Transformation
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.varickagents.com/
+  suggested_slug: varick-agents
+  in_network: false
+  is_api_provider: false
+- name: VTS
+  description: Commercial Real Estate Leasing and Asset Management Platform
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.vts.com/
+  slug: vts
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: ZippedScript
+  description: Education Verification Platform
+  sector: enterprise-apps-vertical-ai
+  stage: unknown
+  status: active
+  source: https://www.work-bench.com/portfolio
+  url: https://www.zippedscript.com/
+  suggested_slug: zippedscript
+  in_network: false
+  is_api_provider: false
