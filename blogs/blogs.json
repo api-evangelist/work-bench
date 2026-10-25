@@ -1,0 +1,14 @@
+{
+  "repo": "work-bench",
+  "feeds": [
+    {
+      "source": "https://www.work-bench.com/research",
+      "feed_url": "https://www.work-bench.com/research",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-24T12:29:31Z"
+}
